@@ -210,7 +210,8 @@ void lcd_display(){
 
 ## Output screen shots of proteus  :
 
- <img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/e26ed0be-f501-4541-a0c4-31c317c0c9dc" />
+ <img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/e8ceca8e-55b1-477d-848e-19236a640a3b" />
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
